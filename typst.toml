@@ -1,0 +1,8 @@
+[package]
+name = "my-typst-package"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["John Bernard <https://github.com/loqusion>"]
+license = "MIT"
+description = "An example package."
+homepage = "https://github.com/loqusion/typix"
